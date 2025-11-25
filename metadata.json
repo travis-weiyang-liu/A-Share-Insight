@@ -1,0 +1,5 @@
+{
+  "name": "Copy of A-Share Alpha Insight",
+  "description": "An AI-powered financial assistant for Chinese A-share investors. It analyzes real-time global market data, policy news, and US market trends to predict A-share movements, recommending sectors, ETFs, and specific stocks.",
+  "requestFramePermissions": []
+}
